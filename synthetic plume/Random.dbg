@@ -1,0 +1,20 @@
+
+ Data for SGSIM: Number of acceptable data  =     2267
+                 Number trimmed             =        0
+                 Weighted Average           =       2.3552
+                 Weighted Variance          =     481.1515
+
+ 
+ Covariance Look up table and search for previously
+ simulated grid nodes.  The maximum range in each 
+ coordinate direction for covariance look up is:
+           X direction:    80.00000    
+           Y direction:    80.00000    
+           Z direction:   0.0000000E+00
+ Node Values are not searched beyond this distance!
+ 
+
+ Realization   1: number   =   260000
+                  mean     =       0.0756 (close to 0.0?)
+                  variance =       0.9180 (close to gammabar(V,V)? approx. 1.0)
+
